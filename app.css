@@ -1,0 +1,102 @@
+/* 
+
+---------- TYPOGRAPHY---------
+
+FONT SIZE:
+12PX / 16PX / 20PX / 24PX / 32PX / 40PX / 48PX / 62PX
+
+FONT WEIGHT:
+400 / 700
+
+LINE HEIGHT:
+1.2 / 1.5
+
+LETTER SPACING:
+0 /-2PX
+
+
+FONT FAMILY:
+Poppins
+
+----------color palette---------
+
+PRIMARY COLOR:
+Base: #339af0 (sky blue)
+Tints: #d0ebff (Arctic)
+Shade: #1c7ed6 (Deep Sea)
+
+
+
+
+*/
+
+
+
+
+
+h1 {
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.2;
+    letter-spacing: -2px;
+    font-size: 62px;
+    font-family: 'Poppins', sans-serif; 
+    color: #212529;
+}
+
+h2 {
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.2;
+    letter-spacing: -2px;
+    font-size: 48px;
+    font-family: 'Poppins', sans-serif;  
+    color: #212529;
+}
+
+h3 {
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -2px;
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif; 
+    color: #212529;
+}
+
+h4 {
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -2px;
+    font-size: 32px;
+    font-family: 'Poppins', sans-serif; 
+    color: #212529;
+}
+
+h5 {
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -2px;
+    font-size: 24px;
+    font-family: 'Poppins', sans-serif; 
+    color: #212529;
+}
+
+p {
+    font-weight: 400;
+    line-height: 1.5;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif; 
+    color: #495057;
+}
+
+a {
+    font-weight: 400;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif; 
+    color: #495057;
+}
+
+ul {
+    list-style: none;
+    
+} 
